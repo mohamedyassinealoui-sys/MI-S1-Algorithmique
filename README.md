@@ -1,4 +1,4 @@
-# MI-S1-Algorithmique
+# 🎓 MI-S1-Algorithmique | Plateforme Python d'apprentissage de l'algorithmique
 
 Plateforme éducative interactive pour l'Algorithmique (MI S1), orientée apprentissage progressif de la pensée algorithmique et de Python.
 
